@@ -26,7 +26,8 @@ div.contenedor{
 
 /*navegación*/
 .navegacion{
-    background-color: #db008d;
+    background-color: yellow;
+
 }
 
 nav{
@@ -52,7 +53,7 @@ nav ul::after{
 nav ul li a{
     display: inline-block;
     width: 200px;
-    color: #fff;
+    color: #000;
     text-decoration: none;
     text-align: center;
     padding: 20px;
